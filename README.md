@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ekbal Shah 👋
 
-<!--
-**ekbalshah-dev/ekbalshah-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Computer Science Student  
+💻 Python & Web Developer  
+📍 Bengaluru, India  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 Student Management System  
+🔹 Weather Website  
+🔹 Personal Portfolio Website  
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/ekbalshah-dev  
+GitHub: https://github.com/ekbalshah-dev
